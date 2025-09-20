@@ -8,5 +8,4 @@ module.exports = {
   transform: {
     ...tsJestTransformCfg,
   },
-  expand: "./tsconfig.json",
 };
